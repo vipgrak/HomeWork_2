@@ -34,4 +34,5 @@ public class Main {
     public static class MyArrayDataException extends Throwable {}
     public static class MyArraySizeException extends Throwable {}
         }
+        //Конец
 
